@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
   s.homepage = 'http://github.com/amatsuda/atode_yomu'
   s.require_paths = ['lib']
   s.rubygems_version = '1.3.2'
-  s.summary = 'A gem plugin to install rdoc and ri cleverly'
+  s.summary = 'A gem plugin to install rdoc and ri cleverly anytime LATER'
 end
