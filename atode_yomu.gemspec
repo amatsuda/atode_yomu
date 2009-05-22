@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new('>= 0') if s.respond_to? :required_rubygems_version=
   s.authors = ['Akira Matsuda']
   s.date = '2009-05-22'
-  s.description = 'A gem plugin that cleverly installs rdoc and ri for the latest versions of already installed gems',
+  s.description = 'A gem plugin that cleverly installs rdoc and ri for the latest versions of already installed gems'
   s.email = 'ronnie@dio.jp'
   s.files = [
     'MIT-LICENSE',
